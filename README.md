@@ -161,9 +161,13 @@
 <h3 align="left">📊   My Stats :</h3>
 
 ###
-[![](https://github-readme-stats.vercel.app/api?username=JanithFX&show_icons=true&theme=dracula)](https://github.com/JanithFX/github-readme-stats)
 
 <div align="center">
+  <picture>
+  <sourcesrcset="https://github-readme-stats.vercel.app/api?username=JanithFXa&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=JanithFX&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JanithFXa&show_icons=true" />
+  </picture>
   <img src="https://streak-stats.demolab.com?user=JanithFX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanithFX&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
