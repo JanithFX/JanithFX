@@ -161,6 +161,7 @@
 <h3 align="left">📊   My Stats :</h3>
 
 ###
+[![](https://github-readme-stats.vercel.app/api?username=JanithFX&show_icons=true&theme=dracula)](https://github.com/JanithFX/github-readme-stats)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JanithFX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
