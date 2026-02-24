@@ -85,11 +85,11 @@
 ###
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" height="50" alt="OBS logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" height="40" alt="OBS logo"  />
   <img width="15" />  
-  <img src="https://ndi.video/wp-content/uploads/2023/04/NDI-LOGO.webp?w=138" height="30" alt="NDI logo"  />
+  <img src="https://ndi.video/wp-content/uploads/2023/04/NDI-LOGO.webp?w=138" height="40" alt="NDI logo"  />
   <img width="15" />
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="50" alt="Davinchi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="40" alt="Davinchi logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
   <img width="15" />
