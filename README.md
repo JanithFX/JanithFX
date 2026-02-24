@@ -8,12 +8,15 @@
   <a href="https://www.youtube.com/JanithFX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <img width="15" />
   <a href="https://www.linkedin.com/in/janithfx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <img width="15" />
   <a href="https://www.instagram.com/janith_fx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <img width="15" />
   <a href="https://www.facebook.com/janithfx.lk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
@@ -82,9 +85,11 @@
 ###
 
 <div align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:OBS_Studio_logo.png" height="50" alt="OBS logo"  />
+  <img src="https://icons8.com/icon/98137/obs-studio" height="50" alt="OBS logo"  />
   <img width="15" />  
-  <img src="https://ndi.video/wp-content/uploads/2023/04/NDI-LOGO.webp?w=138" height="50" alt="NDI logo"  />
+  <img src="https://ndi.video/wp-content/uploads/2023/04/NDI-LOGO.webp?w=138" height="30" alt="NDI logo"  />
+  <img width="15" />
+  <img src="https://icons8.com/icon/40604/davinci-resolve" height="50" alt="Davinchi logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
   <img width="15" />
@@ -166,10 +171,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanithFX/JanithFX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanithFX/JanithFX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JanithFX/JanithFX/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman contribution graph](https://raw.githubusercontent.com/JanithFX/JanithFX/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman contribution graph](https://raw.githubusercontent.com/JanithFX/JanithFX/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
 ###
